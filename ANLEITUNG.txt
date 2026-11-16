@@ -1,0 +1,16 @@
+STAFF SALE – FRIENDS & FAMILY
+
+Dies ist eine installierbare Web-App (PWA), keine native iOS-App.
+
+INSTALLATION:
+1. Lade den gesamten Ordner auf einen HTTPS-Webhost hoch (z. B. Netlify Drop).
+2. Öffne die öffentliche HTTPS-Adresse in Safari auf deinem iPhone.
+3. Tippe auf Teilen > Zum Home-Bildschirm > Hinzufügen.
+4. Öffne die App über das neue Symbol.
+
+Die App kann nach dem ersten Laden offline funktionieren. Kamera und Service Worker benötigen eine HTTPS-Adresse (oder localhost).
+Die Fotos werden in IndexedDB lokal gespeichert. Sie sind NICHT automatisch mit iCloud synchronisiert.
+Benutze regelmäßig den Button "Sicherung exportieren" und bewahre die JSON-Datei sicher auf.
+Beim Löschen von Safari-Website-Daten können alle lokal gespeicherten App-Daten verloren gehen.
+
+Enthalten: 21 ursprüngliche Listeneinträge, inklusive bewusst beibehaltener Dopplungen.
